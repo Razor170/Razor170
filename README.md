@@ -14,10 +14,10 @@ JavaScript Python TypeScript Bash etc.
 
 ### Projects
 Working on a Server-Client Project 
-with ASP.NET Core as Backend for the API Server, 
-with Blazor as the Webpage Server,
-with Xamarin for the Mobile Application for iOS and Android and
-with .NET 6 for the Desktop Application.
+- with ASP.NET Core as Backend for the API Server, 
+- with Blazor as the Webpage Server,
+- with Xamarin for the Mobile Application for iOS and Android and
+- with .NET 6 for the Desktop Application.
 
 The Project is using Entity Framework Core for the Database Connection,
 Database is PostgreSQL. The API uses ApiEndpoints as structure.

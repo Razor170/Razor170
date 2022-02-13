@@ -1,16 +1,23 @@
-### Hi there 👋
+### Currently a student at **FH-SWF Iserlohn** for a Master in Software Development
 
-<!--
-**Razor170/Razor170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+My primary language is CSharp but I can also work in
+Java and C/C++ as well as the script languages like
+JavaScript Python TypeScript Bash etc.
 
-Here are some ideas to get you started:
+### Tools
+- Rider
+- Visual Studio
+- Git
+- VS Code
+- Intellij
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+Working on a Server-Client Project 
+with ASP.NET Core as Backend for the API Server, 
+with Blazor as the Webpage Server,
+with Xamarin for the Mobile Application for iOS and Android and
+with .NET 6 for the Desktop Application.
+
+The Project is using Entity Framework Core for the Database Connection,
+Database is PostgreSQL. The API uses ApiEndpoints as structure.
